@@ -1,0 +1,22 @@
+body {
+  background-color: #ddd;
+}
+
+h1 {
+  font-size: 48px;
+  color: #222;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(20, 192, 135);
+}
+
+p {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: 1em;
+  border: 1px black solid;
+  border-radius: 10px;
+}
