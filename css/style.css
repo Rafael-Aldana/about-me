@@ -12,6 +12,17 @@ header {
   background-color: rgb(20, 192, 135);
 }
 
+footer {
+  background-color: hsla(360, 45%, 50%, .3);
+  width: max-content;
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: .5em;
+  font-size: 1.2rem;
+  border: 1px #222 solid;
+  border-radius: 10px;
+}
+
 p {
   width: 85%;
   margin: 0 auto;
@@ -19,4 +30,5 @@ p {
   padding: 1em;
   border: 1px black solid;
   border-radius: 10px;
+  font-size: 1.2rem;
 }

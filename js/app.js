@@ -47,4 +47,4 @@ if (q5Guess[0].toLowerCase() === 'y') {
   alert('Correct!');
 }
 // 3. give personalized message
-alert(`Thanks for playing ${userName}`);
+alert(`Thanks for playing ${userName}!`);
